@@ -12,7 +12,7 @@ I'm Daniel, born and raised in Almada, Portugal. I'm a Fullstack Web Developer a
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,express,html,css)
 
-<img align="center" src="https://avatars.githubusercontent.com/u/1376999?s=280&v=4" alt="cisco-logo" height="48" width="48"/>   <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qbjTz50fusrk5xJ5C-NN-UXUUXXqsGrNsye2_VlWZA&s" alt="outsystems-logo" height="48" width="48" radiusBorder="20"/>
+<img align="center" src="https://avatars.githubusercontent.com/u/1376999?s=280&v=4" alt="cisco-logo" height="48" width="48"/>          <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qbjTz50fusrk5xJ5C-NN-UXUUXXqsGrNsye2_VlWZA&s" alt="outsystems-logo" height="48" width="48" radiusBorder="20"/>
 
 
 <!--
