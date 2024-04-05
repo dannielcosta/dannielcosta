@@ -3,6 +3,10 @@
 I'm Daniel, born and raised in Almada, Portugal. I'm a Fullstack Web Developer and I really enjoy learning new languages and frameworks, and challenge myself to develop more skills for myself. I also like dig into Networking stuff like Cisco Networking (Routing and Switching) and Outsystems Platforms. Feel free to check out my portfolio and contact me if you want!
 
 
+### TechSkills
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,express,html,css,npm,postman,git,github,vite,vscode)]
+
 
 <!--
 **dannielcosta/dannielcosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
