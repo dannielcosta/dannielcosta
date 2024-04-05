@@ -3,6 +3,11 @@
 I'm Daniel, born and raised in Almada, Portugal. I'm a Fullstack Web Developer and I really enjoy learning new languages and frameworks, and challenge myself to develop more skills for myself. I also like dig into Networking stuff like Cisco Networking (Routing and Switching) and Outsystems Platforms. Feel free to check out my portfolio and contact me if you want!
 
 
+### Connect with me
+
+<a href="https://www.linkedin.com/in/daniel-costa-144924153/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-bhatt-b256271a3" height="30" width="40" /></a>
+
+
 ### TechSkills
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,express,html,css)
