@@ -5,7 +5,7 @@ I'm Daniel, born and raised in Almada, Portugal. I'm a Fullstack Web Developer a
 
 ### TechSkills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,express,html,css,npm,postman,git,github,vite,vscode)]
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,express,html,css,npm,postman,git,github,vite,vscode)
 
 
 <!--
