@@ -1,4 +1,6 @@
-<div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&pause=1000&random=false&width=445&height=60&lines=Hey+there!!!)](https://git.io/typing-svg)</div>
+<div align="center"> 
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&pause=1000&random=false&width=445&height=60&lines=Hey+there!!!)](https://git.io/typing-svg) 
+</div>
 
 I'm Daniel, born and raised in Almada, Portugal. I'm a Fullstack Web Developer and I really enjoy learning new languages and frameworks, and challenge myself to develop more skills for myself. I also like dig into Networking stuff like Cisco Networking (Routing and Switching) and Outsystems Platforms. Feel free to check out my portfolio and contact me if you want!
 
