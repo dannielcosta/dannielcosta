@@ -6,7 +6,7 @@ I'm Daniel, born and raised in Almada, Portugal. I'm a Fullstack Web Developer a
 
 ### 🔗 Connect with me
 
-<a href="https://www.linkedin.com/in/daniel-costa-144924153/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-bhatt-b256271a3" height="48" width="48" /></a>
+<a href="https://www.linkedin.com/in/daniel-costa-144924153/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjwal-bhatt-b256271a3" height="40" width="40" /></a>
 
 
 ### 🔧 Technologies
