@@ -15,9 +15,7 @@ I'm Daniel, born and raised in Almada, Portugal. I'm a Fullstack Web Developer a
 
 ### 🎓 Self Learning Skills ↩️ (repo Links)
 
-<a href="https://github.com/dannielcosta/CISCO---CCNA-200---301"><img align="center" src="https://avatars.githubusercontent.com/u/1376999?s=280&v=4" alt="cisco-logo" height="48" width="48"/>  </a>       <a href="https://github.com/dannielcosta/Outsystems"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qbjTz50fusrk5xJ5C-NN-UXUUXXqsGrNsye2_VlWZA&s" alt="outsystems-logo" height="48" width="48" radiusBorder="20"/></a> 
-
-<a href="https://github.com/dannielcosta/Angular"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qbjTz50fusrk5xJ5C-NN-UXUUXXqsGrNsye2_VlWZA&s](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="outsystems-logo" height="48" width="48" radiusBorder="20"/></a>
+<a href="https://github.com/dannielcosta/CISCO---CCNA-200---301"><img align="center" src="https://avatars.githubusercontent.com/u/1376999?s=280&v=4" alt="cisco-logo" height="48" width="48"/>  </a>       <a href="https://github.com/dannielcosta/Outsystems"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qbjTz50fusrk5xJ5C-NN-UXUUXXqsGrNsye2_VlWZA&s" alt="outsystems-logo" height="48" width="48" radiusBorder="20"/></a>      <a href="https://github.com/dannielcosta/Angular"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qbjTz50fusrk5xJ5C-NN-UXUUXXqsGrNsye2_VlWZA&s](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="outsystems-logo" height="48" width="48" radiusBorder="20"/></a>
 
 
 
