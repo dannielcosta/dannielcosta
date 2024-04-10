@@ -4,7 +4,7 @@
 I'm Daniel, born and raised in Almada, Portugal. I'm a Fullstack Web Developer and I really enjoy learning new languages and frameworks, and challenge myself to develop more skills for myself. I also like dig into Networking stuff like Cisco Networking (Routing and Switching) and Outsystems Platforms. Feel free to check out my portfolio and contact me!
 
 
-### Ironhack Alumni
+### 🎓 Ironhack Alumni
 <img src="https://seeklogo.com/images/I/ironhack-logo-F751CF4738-seeklogo.com.png" alt="ironhack-logo" height="40" width="40"/>
 
 
@@ -17,7 +17,7 @@ I'm Daniel, born and raised in Almada, Portugal. I'm a Fullstack Web Developer a
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,express,html,css,figma,npm,md)
 
-### 🎓 Self Learning Skills ↩️ (repo Links)
+### 📖 Self Learning Skills ↩️ (repo Links)
 
 <a href="https://github.com/dannielcosta/CISCO---CCNA-200---301"><img align="center" src="https://avatars.githubusercontent.com/u/1376999?s=280&v=4" alt="cisco-logo" height="48" width="48"/>  </a>       <a href="https://github.com/dannielcosta/Outsystems"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qbjTz50fusrk5xJ5C-NN-UXUUXXqsGrNsye2_VlWZA&s" alt="outsystems-logo" height="48" width="48" radiusBorder="20"/></a>     
 
