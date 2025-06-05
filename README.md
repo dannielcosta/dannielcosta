@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&pause=1000&random=false&width=445&height=60&lines=Hey+there!!!)](https://git.io/typing-svg) 
 
-welcome
-<!--I'm Daniel, born and raised in Almada, Portugal. I'm a Fullstack Web Developer and I really enjoy learning new languages and frameworks, and challenge myself to develop more skills for myself. I also like dig into Networking stuff like Cisco Networking (Routing and Switching) and Outsystems Platforms. Feel free to check out my portfolio and contact me! -->
+
+<!--I'm Daniel, born and raised in Almada, Portugal. I'm a Fullstack Web Developer and I really enjoy learning new languages and frameworks, and challenge myself to develop more skills for myself. I also like dig into Networking stuff like Cisco Networking (Routing and Switching) and Outsystems Platforms. Feel free to check out my portfolio and contact me! 
 
 
 ### 🎓 Ironhack Alumni
@@ -21,7 +21,7 @@ welcome
 
 <a href="https://github.com/dannielcosta/CISCO---CCNA-200---301"><img align="center" src="https://avatars.githubusercontent.com/u/1376999?s=280&v=4" alt="cisco-logo" height="48" width="48"/>  </a>       <a href="https://github.com/dannielcosta/Outsystems"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2qbjTz50fusrk5xJ5C-NN-UXUUXXqsGrNsye2_VlWZA&s" alt="outsystems-logo" height="48" width="48" radiusBorder="20"/></a>     
 
-
+-->
 
 
 
